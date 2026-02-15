@@ -1,9 +1,10 @@
 #header {
   list-style-type: none;
-  line-height: 1.0;
-  color: blueviolet;
+  line-height: 0.5;
+  color: black;
 }
 
-#Education, #Skills, #WestMonroe, #WM, #CivicStudios, #Projects {
+#Education, #WestMonroe, #WM, #CivicStudios, #Projects {
   list-style-type: none;
+  font-family: 'Times New Roman', Times, serif;
 }
