@@ -11,6 +11,6 @@
 #Skills {
   font-family: 'Times New Roman', Times, serif;
 }
-#Projects a {
+#Projects a, #screenshot-text  {
   font-size: larger;
 }
